@@ -1,6 +1,8 @@
 <img src="https://github.com/Rat-muzzle/Rat-muzzle/blob/main/asset/gzm5k.gif" alt="The Unlimited" width="520"/>
-** Languages and Tools: **
-*** badge-maker ***
+
+
+# Languages and Tools: 
+
 
 [![npm version](https://img.shields.io/npm/v/badge-maker.svg)](https://npmjs.org/package/badge-maker)
 [![npm license](https://img.shields.io/npm/l/badge-maker.svg)](https://npmjs.org/package/badge-maker)
