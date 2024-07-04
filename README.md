@@ -5,6 +5,7 @@
 
 
 [![npm version](https://img.shields.io/npm/v/badge-maker.svg)](https://npmjs.org/package/badge-maker)
+![Static Badge](https://img.shields.io/badge/python-_?style=flat&logo=python&logoColor=%23190773)
 
 
 ## Installation
